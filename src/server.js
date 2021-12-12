@@ -1,5 +1,5 @@
 
 module.exports = {
-    auth_api_url:    "https://project-p5.herokuapp.com/",
-    account_api_url: ""
+    auth_api_url:    "https://ecommerce-auth-ms.herokuapp.com/",
+    account_api_url: "https://ecommerce-product-ms.herokuapp.com/"
 }
