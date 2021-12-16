@@ -4,7 +4,7 @@
     "description": "Este es un API Gateway para manejar las solicitudes de los usuarios de la página ecommerce",
     "main": "src/index",
     "scripts": {},
-    "author": "Grupo P5 C4",
+    "author": "César Abril",
     "license": "ISC",
     "dependencies": {
         "apollo-datasource-rest": "^3.1.1",
