@@ -22,9 +22,7 @@ const authTypes = gql `
     input SignUpInput {
         username:String!
         password:String!
-        name    :String!
-        email   :String!
-        balance :Int!
+        
     }
 
     type UserDetail{
